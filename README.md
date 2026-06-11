@@ -1,56 +1,28 @@
-# Campus Transport Distance Mapper
+# Calcolatore Distanze Trasporti — Campus Universitari
 
-Enriches Italian university datasets with **real-time transport proximity data** — for each university, it calculates the distance to the nearest train station, metro stop, bus stop, and city center using open geospatial APIs.
+Tool per l'**arricchimento di POI (Punti di Interesse)** universitari con dati di prossimità ai trasporti pubblici, usando Nominatim per la geocodifica e l'API Overpass per i dati OpenStreetMap.
 
-## What it does
+## Cosa fa
 
-For each university in the dataset:
-- Finds the **nearest train station** (via Overpass API + OpenStreetMap)
-- Finds the **nearest metro station**
-- Finds the **nearest bus stop**
-- Calculates distance to **city center** (centroid of the main square)
-- Computes walking/distance scores for student accessibility
+- Geocodifica automatica degli indirizzi universitari con Nominatim
+- Ricerca dei mezzi di trasporto vicini (metro, bus, treni) tramite Overpass API
+- Calcolo delle distanze tra campus e fermate del trasporto pubblico
+- Esportazione dei risultati in CSV/Excel con checkpoint di ripresa
 
-## How it works
-
-```
-University address
-    └─ Nominatim (OSM) → GPS coordinates
-    └─ Overpass API → nearby transport nodes
-    └─ Haversine formula → distance in meters
-    └─ Enriched dataset (JSON/CSV output)
-```
-
-Includes crash recovery via checkpoint files — the enrichment can be stopped and resumed without losing progress.
-
-## Scripts
-
-| File | Purpose |
-|---|---|
-| `poi_enricher_v3.py` | Main enricher (train + metro + bus + centroid) |
-| `poi_enricher_v2.py` | Earlier version — metro + bus only |
-| `centro_piazza.py` | City center geocoding helper |
-| `test_centroide.py` | Centroid calculation tests |
-| `test_piazza.py` | Main square geocoding tests |
-| `fix_satellite.py` | Coordinate correction utilities |
-
-## Tech stack
-
-- Python 3
-- `requests` — Nominatim + Overpass API calls
-- `json` — checkpoint management
-- OpenStreetMap data via [Overpass API](https://overpass-api.de)
-- [Nominatim](https://nominatim.org) — free geocoding, no key required
-
-## Usage
+## Come si usa
 
 ```bash
-pip install requests
-python poi_enricher_v3.py
+pip install requests pandas openpyxl
+python distance_mapper.py
 ```
 
-Checkpoint is saved automatically every N universities — safe to interrupt and resume.
+## Tecnologie
 
-## Topics
+- `Nominatim` (OpenStreetMap) — geocodifica indirizzi
+- `Overpass API` — query sui dati OSM (fermate, stazioni)
+- `pandas` — elaborazione e export dati
+- Checkpoint JSON per riprendere elaborazioni interrotte
 
-`python` `geolocation` `openstreetmap` `overpass-api` `nominatim` `distance-calculation` `universities` `transport` `gis`
+## Tag
+
+`python` `openstreetmap` `nominatim` `overpass-api` `geolocalizzazione` `trasporti` `università` `pandas`
