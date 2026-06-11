@@ -1,0 +1,2769 @@
+Caricamento dataset…
+  5827 righe, 23 colonne
+  Sedi uniche: 309
+
+Checkpoint: 0 sedi già elaborate
+
+[1/309] Bari — Bari
+  Coord: 41.10949, 16.88169
+    cinema: 5 POI, min 992m
+    palestre: 16 POI, min 406m
+      [Overpass 429] attendo 15s…
+    bar: 169 POI, min 176m
+    ristoranti: 177 POI, min 163m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[2/309] Basilicata — Matera
+  Coord: 40.64613, 15.80858
+    cinema: 2 POI, min 779m
+    palestre: 12 POI, min 365m
+    bar: 50 POI, min 407m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 63 POI, min 406m
+    mense: 0 POI, min —
+[3/309] Bologna — Ravenna
+  Coord: 44.41720, 12.20197
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 337m
+    palestre: 20 POI, min 244m
+    bar: 55 POI, min 114m
+    ristoranti: 103 POI, min 18m
+    mense: 0 POI, min —
+[4/309] Ca' Foscari Venezia — Venezia
+  Coord: 45.43450, 12.32645
+      [Overpass 429] attendo 15s…
+    cinema: 3 POI, min 527m
+    palestre: 5 POI, min 591m
+    bar: 253 POI, min 132m
+    ristoranti: 630 POI, min 30m
+    mense: 0 POI, min —
+[5/309] Cagliari — Cagliari
+  Coord: 39.22183, 9.11066
+    cinema: 3 POI, min 518m
+    palestre: 25 POI, min 142m
+    bar: 143 POI, min 127m
+    ristoranti: 269 POI, min 217m
+    mense: 0 POI, min —
+[6/309] Calabria — Rende
+  Coord: 39.36209, 16.22371
+    cinema: 0 POI, min —
+    palestre: 6 POI, min 887m
+    bar: 11 POI, min 10m
+    ristoranti: 28 POI, min 32m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[7/309] Catania — Catania
+  Coord: 37.52094, 15.06187
+    cinema: 2 POI, min 1728m
+      [Overpass 429] attendo 15s…
+    palestre: 19 POI, min 873m
+    bar: 72 POI, min 373m
+    ristoranti: 53 POI, min 371m
+    mense: 0 POI, min —
+[8/309] Chieti e Pescara — Chieti
+  Coord: 42.34465, 14.16597
+    cinema: 1 POI, min 406m
+    palestre: 7 POI, min 458m
+      [Overpass 429] attendo 15s…
+    bar: 31 POI, min 104m
+    ristoranti: 25 POI, min 101m
+    mense: 0 POI, min —
+[9/309] Firenze — Firenze
+  Coord: 43.77805, 11.26083
+    cinema: 11 POI, min 402m
+      [Overpass 429] attendo 15s…
+    palestre: 17 POI, min 648m
+    bar: 442 POI, min 122m
+    ristoranti: 892 POI, min 165m
+    mense: 0 POI, min —
+[10/309] Foggia — Foggia
+  Coord: 41.46269, 15.53986
+    cinema: 3 POI, min 378m
+      [Overpass 504] attendo 10s…
+    palestre: 11 POI, min 622m
+    bar: 40 POI, min 311m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    ristoranti: 47 POI, min 166m
+    mense: 0 POI, min —
+[11/309] Genova — Genova
+  Coord: 44.41489, 8.92667
+    cinema: 9 POI, min 826m
+    palestre: 29 POI, min 312m
+      [Overpass 429] attendo 15s…
+    bar: 372 POI, min 26m
+    ristoranti: 478 POI, min 95m
+    mense: 0 POI, min —
+[12/309] Macerata — Macerata
+  Coord: 43.30102, 13.44597
+    cinema: 1 POI, min 482m
+    palestre: 8 POI, min 634m
+    bar: 50 POI, min 60m
+    ristoranti: 59 POI, min 39m
+    mense: 0 POI, min —
+[13/309] Messina — Noto
+  Coord: 38.22964, 15.55110
+    cinema: 0 POI, min —
+    palestre: 2 POI, min 117m
+    bar: 1 POI, min 1540m
+    ristoranti: 1 POI, min 1559m
+    mense: 0 POI, min —
+[14/309] Milano — Milano
+  Coord: 45.46011, 9.19532
+    cinema: 9 POI, min 452m
+    palestre: 35 POI, min 502m
+      [Overpass 429] attendo 15s…
+    bar: 648 POI, min 119m
+    ristoranti: 1129 POI, min 125m
+    mense: 0 POI, min —
+[15/309] Milano Cattolica — Milano
+  Coord: 45.46185, 9.17706
+    cinema: 10 POI, min 449m
+    palestre: 48 POI, min 294m
+    bar: 639 POI, min 130m
+    ristoranti: 1117 POI, min 132m
+    mense: 0 POI, min —
+[16/309] Molise — Campobasso
+  Coord: 41.55380, 14.66486
+    cinema: 0 POI, min —
+    palestre: 10 POI, min 716m
+    bar: 6 POI, min 180m
+    ristoranti: 26 POI, min 605m
+    mense: 0 POI, min —
+[17/309] Napoli Benincasa — Napoli
+  Coord: 40.83889, 14.24283
+    cinema: 13 POI, min 332m
+    palestre: 13 POI, min 655m
+    bar: 436 POI, min 84m
+    ristoranti: 555 POI, min 106m
+    mense: 0 POI, min —
+[18/309] Napoli Federico II — Napoli
+  Coord: 40.84776, 14.25660
+    cinema: 9 POI, min 114m
+    palestre: 10 POI, min 213m
+    bar: 435 POI, min 52m
+    ristoranti: 541 POI, min 58m
+    mense: 0 POI, min —
+[19/309] Napoli L'Orientale — Napoli
+  Coord: 40.84553, 14.25511
+    cinema: 12 POI, min 215m
+    palestre: 10 POI, min 223m
+    bar: 457 POI, min 31m
+    ristoranti: 598 POI, min 64m
+    mense: 0 POI, min —
+[20/309] Napoli Vanvitelli — Santa Maria Capua Vetere
+  Coord: 41.06722, 14.33052
+    cinema: 0 POI, min —
+    palestre: 20 POI, min 264m
+    bar: 44 POI, min 214m
+    ristoranti: 59 POI, min 177m
+    mense: 0 POI, min —
+[21/309] Padova — Padova
+  Coord: 45.40665, 11.87744
+    cinema: 5 POI, min 372m
+    palestre: 17 POI, min 611m
+    bar: 218 POI, min 53m
+    ristoranti: 231 POI, min 64m
+    mense: 0 POI, min —
+[22/309] Palermo — Palermo
+  Coord: 38.11740, 13.37000
+    cinema: 3 POI, min 865m
+    palestre: 4 POI, min 1822m
+    bar: 211 POI, min 77m
+    ristoranti: 365 POI, min 26m
+    mense: 0 POI, min —
+[23/309] Parma — Parma
+  Coord: 44.80425, 10.33521
+    cinema: 3 POI, min 755m
+    palestre: 25 POI, min 58m
+    bar: 241 POI, min 110m
+    ristoranti: 219 POI, min 72m
+    mense: 0 POI, min —
+[24/309] Pavia — Cremona
+  Coord: 45.18693, 9.15688
+    cinema: 1 POI, min 405m
+    palestre: 10 POI, min 908m
+    bar: 64 POI, min 43m
+    ristoranti: 97 POI, min 84m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[25/309] Perugia — Perugia
+  Coord: 43.11639, 12.38532
+    cinema: 5 POI, min 282m
+    palestre: 10 POI, min 616m
+    bar: 105 POI, min 48m
+    ristoranti: 190 POI, min 121m
+    mense: 0 POI, min —
+[26/309] Pisa — Pisa
+  Coord: 43.71831, 10.39692
+    cinema: 9 POI, min 321m
+    palestre: 28 POI, min 494m
+    bar: 184 POI, min 28m
+    ristoranti: 311 POI, min 26m
+    mense: 4 POI, min 356m
+[27/309] Roma La Sapienza — Roma
+  Coord: 41.89332, 12.48293
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+    mense: 1 POI, min 1928m
+[28/309] Roma Marconi - telematica — Roma
+  Coord: 41.89332, 12.48293
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+      [Overpass 429] attendo 15s…
+    mense: 1 POI, min 1928m
+[29/309] Roma Tor Vergata — Roma
+  Coord: 41.89332, 12.48293
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+    mense: 1 POI, min 1928m
+[30/309] Roma Tre — Roma
+  Coord: 41.86474, 12.48010
+    cinema: 2 POI, min 1261m
+    palestre: 44 POI, min 47m
+    bar: 207 POI, min 62m
+      [Overpass 429] attendo 15s…
+    ristoranti: 336 POI, min 141m
+    mense: 0 POI, min —
+[31/309] Roma UNINETTUNO - telematica — Roma
+  Coord: 41.89332, 12.48293
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+    mense: 1 POI, min 1928m
+[32/309] Salento — Lecce
+  Coord: 40.35864, 18.16552
+    cinema: 2 POI, min 1082m
+    palestre: 11 POI, min 273m
+    bar: 158 POI, min 101m
+    ristoranti: 223 POI, min 102m
+    mense: 0 POI, min —
+[33/309] Salerno — Fisciano
+  Coord: 40.77201, 14.79118
+      [Overpass 504] attendo 10s…
+    cinema: 0 POI, min —
+    palestre: 2 POI, min 1662m
+    bar: 9 POI, min 535m
+    ristoranti: 14 POI, min 595m
+    mense: 0 POI, min —
+[34/309] Sassari — Sassari
+  Coord: 40.71321, 8.55658
+    cinema: 1 POI, min 1713m
+    palestre: 9 POI, min 464m
+    bar: 42 POI, min 347m
+    ristoranti: 50 POI, min 241m
+    mense: 0 POI, min —
+[35/309] Siena — Siena
+  Coord: 43.34321, 11.32806
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 9 POI, min 392m
+    bar: 29 POI, min 153m
+    ristoranti: 57 POI, min 354m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[36/309] Torino — Torino
+  Coord: 45.07338, 7.69944
+    cinema: 10 POI, min 791m
+    palestre: 27 POI, min 170m
+    bar: 343 POI, min 101m
+    ristoranti: 630 POI, min 188m
+    mense: 0 POI, min —
+[37/309] Trento — Trento
+  Coord: 46.07224, 11.11932
+    cinema: 2 POI, min 453m
+    palestre: 20 POI, min 458m
+    bar: 171 POI, min 31m
+    ristoranti: 195 POI, min 144m
+    mense: 0 POI, min —
+[38/309] Tuscia — Viterbo
+  Coord: 42.41365, 12.11347
+    cinema: 1 POI, min 1222m
+      [Overpass 429] attendo 15s…
+    palestre: 15 POI, min 298m
+    bar: 55 POI, min 147m
+      [Overpass 429] attendo 15s…
+    ristoranti: 59 POI, min 242m
+    mense: 0 POI, min —
+[39/309] Udine — Udine
+  Coord: 46.06731, 13.23199
+    cinema: 3 POI, min 357m
+    palestre: 39 POI, min 384m
+    bar: 230 POI, min 107m
+    ristoranti: 167 POI, min 112m
+    mense: 0 POI, min —
+[40/309] Verona — Verona
+  Coord: 45.43634, 11.00303
+    cinema: 3 POI, min 887m
+    palestre: 13 POI, min 273m
+    bar: 204 POI, min 115m
+    ristoranti: 332 POI, min 47m
+    mense: 0 POI, min —
+[41/309] Bari Politecnico — Bari
+  Coord: 41.10891, 16.87858
+    cinema: 5 POI, min 749m
+    palestre: 17 POI, min 458m
+      [Overpass 429] attendo 15s…
+    bar: 178 POI, min 158m
+    ristoranti: 186 POI, min 59m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[42/309] Bologna — Bologna
+  Coord: 44.49829, 11.35446
+    cinema: 22 POI, min 342m
+    palestre: 29 POI, min 214m
+    bar: 477 POI, min 56m
+    ristoranti: 592 POI, min 56m
+    mense: 0 POI, min —
+[43/309] Bolzano — Bolzano - Bozen
+  Coord: 46.49830, 11.35010
+    cinema: 3 POI, min 511m
+    palestre: 14 POI, min 347m
+    bar: 200 POI, min 62m
+    ristoranti: 174 POI, min 60m
+    mense: 1 POI, min 1560m
+[44/309] Camerino — Ascoli Piceno
+  Coord: 43.13963, 13.06722
+    cinema: 0 POI, min —
+    palestre: 2 POI, min 1951m
+    bar: 12 POI, min 384m
+    ristoranti: 17 POI, min 385m
+    mense: 2 POI, min 166m
+[45/309] Chieti e Pescara — Pescara
+  Coord: 42.46961, 14.20593
+    cinema: 4 POI, min 393m
+    palestre: 27 POI, min 478m
+    bar: 166 POI, min 64m
+    ristoranti: 242 POI, min 79m
+    mense: 0 POI, min —
+[46/309] Genova — La Spezia
+  Coord: 44.41489, 8.92667
+    cinema: 9 POI, min 826m
+    palestre: 29 POI, min 312m
+      [Overpass 429] attendo 15s…
+    bar: 372 POI, min 26m
+    ristoranti: 478 POI, min 95m
+    mense: 0 POI, min —
+[47/309] Milano Politecnico — Milano
+  Coord: 45.48001, 9.22824
+      [Overpass 504] attendo 10s…
+    cinema: 7 POI, min 856m
+      [Overpass 504] attendo 10s…
+    palestre: 36 POI, min 74m
+    bar: 446 POI, min 135m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    ristoranti: 628 POI, min 132m
+    mense: 0 POI, min —
+[48/309] Napoli Vanvitelli — Aversa
+  Coord: 40.96644, 14.20001
+      [Overpass 429] attendo 15s…
+    cinema: 2 POI, min 865m
+      [Overpass 429] attendo 15s…
+    palestre: 8 POI, min 197m
+      [Overpass 504] attendo 10s…
+    bar: 61 POI, min 203m
+    ristoranti: 56 POI, min 139m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[49/309] Perugia — Assisi
+  Coord: 43.11639, 12.38532
+    cinema: 5 POI, min 282m
+    palestre: 10 POI, min 616m
+    bar: 105 POI, min 48m
+    ristoranti: 190 POI, min 121m
+    mense: 0 POI, min —
+[50/309] Reggio Calabria — Reggio Di Calabria
+  Coord: 38.10354, 15.63976
+    cinema: 3 POI, min 323m
+    palestre: 20 POI, min 631m
+    bar: 24 POI, min 113m
+    ristoranti: 29 POI, min 52m
+    mense: 0 POI, min —
+[51/309] Torino Politecnico — Torino
+  Coord: 45.06370, 7.65753
+    cinema: 7 POI, min 610m
+    palestre: 26 POI, min 297m
+    bar: 370 POI, min 179m
+    ristoranti: 467 POI, min 227m
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+    mense: 0 POI, min —
+[52/309] Venezia Iuav — Venezia
+  Coord: 45.47939, 12.25526
+      [Overpass 504] attendo 10s…
+    cinema: 1 POI, min 1672m
+    palestre: 4 POI, min 500m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    bar: 60 POI, min 756m
+    ristoranti: 99 POI, min 104m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[53/309] Bologna — Rimini
+  Coord: 44.49829, 11.35446
+    cinema: 22 POI, min 342m
+      [Overpass 429] attendo 15s…
+    palestre: 29 POI, min 214m
+    bar: 477 POI, min 56m
+      [Overpass 504] attendo 10s…
+    ristoranti: 592 POI, min 56m
+    mense: 0 POI, min —
+[54/309] Firenze — Prato
+  Coord: 43.77755, 11.25699
+    cinema: 11 POI, min 192m
+      [Overpass 504] attendo 10s…
+    palestre: 16 POI, min 827m
+    bar: 449 POI, min 40m
+      [Overpass 429] attendo 15s…
+    ristoranti: 898 POI, min 38m
+    mense: 0 POI, min —
+[55/309] Messina — Messina
+  Coord: 38.22964, 15.55110
+    cinema: 0 POI, min —
+    palestre: 2 POI, min 117m
+    bar: 1 POI, min 1540m
+    ristoranti: 1 POI, min 1559m
+    mense: 0 POI, min —
+[56/309] Milano Cattolica — Brescia
+  Coord: 45.53786, 10.22428
+    cinema: 6 POI, min 280m
+    palestre: 17 POI, min 286m
+    bar: 205 POI, min 57m
+    ristoranti: 268 POI, min 77m
+    mense: 0 POI, min —
+[57/309] Milano IULM — Milano
+  Coord: 45.46419, 9.18963
+    cinema: 13 POI, min 236m
+    palestre: 41 POI, min 232m
+    bar: 732 POI, min 70m
+      [Overpass 429] attendo 15s…
+    ristoranti: 1287 POI, min 80m
+    mense: 0 POI, min —
+[58/309] Novedrate e-Campus - telematica — Novedrate
+  Coord: 45.69895, 9.12050
+    cinema: 0 POI, min —
+    palestre: 6 POI, min 237m
+    bar: 11 POI, min 50m
+    ristoranti: 13 POI, min 257m
+    mense: 0 POI, min —
+[59/309] Roma  Mercatorum - telematica — Roma
+  Coord: 41.89332, 12.48293
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+    mense: 1 POI, min 1928m
+[60/309] Roma Link Campus — Roma
+  Coord: 43.30003, 13.43678
+      [Overpass 504] attendo 10s…
+    cinema: 1 POI, min 1217m
+    palestre: 10 POI, min 195m
+      [Overpass 429] attendo 15s…
+    bar: 50 POI, min 169m
+    ristoranti: 60 POI, min 199m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[61/309] Teramo — Teramo
+  Coord: 42.66977, 13.70037
+    cinema: 2 POI, min 1034m
+      [Overpass 504] attendo 10s…
+    palestre: 10 POI, min 547m
+    bar: 52 POI, min 39m
+      [Overpass 429] attendo 15s…
+    ristoranti: 20 POI, min 867m
+    mense: 0 POI, min —
+[62/309] Udine — Gorizia
+  Coord: 45.94332, 13.61847
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 608m
+    palestre: 41 POI, min 115m
+      [Overpass 429] attendo 15s…
+    bar: 80 POI, min 46m
+    ristoranti: 57 POI, min 95m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    mense: 0 POI, min —
+[63/309] Ferrara — Ferrara
+  Coord: 44.83338, 11.62640
+    cinema: 4 POI, min 547m
+    palestre: 24 POI, min 1029m
+    bar: 131 POI, min 197m
+    ristoranti: 151 POI, min 196m
+    mense: 0 POI, min —
+[64/309] Milano Politecnico — Lecco
+  Coord: 45.84955, 9.39686
+      [Overpass 429] attendo 15s…
+    cinema: 2 POI, min 1068m
+      [Overpass 504] attendo 10s…
+    palestre: 8 POI, min 250m
+    bar: 71 POI, min 66m
+    ristoranti: 68 POI, min 183m
+    mense: 0 POI, min —
+[65/309] Roma San Raffaele - telematica — Roma
+  Coord: 41.89332, 12.48293
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+      [Overpass 429] attendo 15s…
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    mense: 1 POI, min 1928m
+[66/309] Sassari — Alghero
+  Coord: 40.71321, 8.55658
+      [Overpass 504] attendo 10s…
+    cinema: 1 POI, min 1713m
+    palestre: 9 POI, min 464m
+      [Overpass 429] attendo 15s…
+    bar: 42 POI, min 347m
+      [Overpass 429] attendo 15s…
+    ristoranti: 50 POI, min 241m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+      [Overpass 504] attendo 30s…
+    mense: 0 POI, min —
+[67/309] Venezia Iuav — Vicenza
+  Coord: 45.47939, 12.25526
+    cinema: 1 POI, min 1672m
+    palestre: 4 POI, min 500m
+      [Overpass 429] attendo 15s…
+    bar: 60 POI, min 756m
+      [Overpass 429] attendo 15s…
+    ristoranti: 99 POI, min 104m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[68/309] Pavia — Pavia
+  Coord: 45.18693, 9.15688
+    cinema: 1 POI, min 405m
+      [Overpass 429] attendo 15s…
+    palestre: 10 POI, min 908m
+    bar: 64 POI, min 43m
+      [Overpass 429] attendo 15s…
+    ristoranti: 97 POI, min 84m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[69/309] Cassino — Cassino
+  Coord: 41.49256, 13.83053
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 4 POI, min 271m
+    bar: 23 POI, min 36m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+    ristoranti: 37 POI, min 56m
+    mense: 0 POI, min —
+[70/309] L'Aquila — L'Aquila
+  Coord: 42.33756, 13.37797
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+    palestre: 3 POI, min 1863m
+      [Overpass 429] attendo 15s…
+    bar: 9 POI, min 1630m
+      [Overpass 429] attendo 15s…
+    ristoranti: 16 POI, min 187m
+    mense: 0 POI, min —
+[71/309] Milano San Raffaele — Segrate
+  Coord: 45.50681, 9.26517
+    cinema: 0 POI, min —
+    palestre: 21 POI, min 240m
+    bar: 59 POI, min 101m
+      [Overpass 429] attendo 15s…
+    ristoranti: 63 POI, min 75m
+    mense: 0 POI, min —
+[72/309] Palermo — Agrigento
+  Coord: 38.03339, 12.53483
+      [Overpass 429] attendo 15s…
+    cinema: 2 POI, min 1630m
+      [Overpass 429] attendo 15s…
+    palestre: 2 POI, min 649m
+      [Overpass 429] attendo 15s…
+    bar: 19 POI, min 712m
+    ristoranti: 16 POI, min 1127m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[73/309] Urbino — Urbino
+  Coord: 43.72626, 12.63631
+    cinema: 2 POI, min 113m
+      [Overpass 429] attendo 15s…
+    palestre: 6 POI, min 348m
+    bar: 36 POI, min 25m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    ristoranti: 45 POI, min 22m
+    mense: 0 POI, min —
+[74/309] Milano Cattolica — Piacenza
+  Coord: 45.03684, 9.72715
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+    palestre: 0 POI, min —
+    bar: 15 POI, min 609m
+    ristoranti: 16 POI, min 150m
+    mense: 0 POI, min —
+[75/309] Napoli Parthenope — Napoli
+  Coord: 40.75946, 14.43722
+    cinema: 1 POI, min 817m
+    palestre: 9 POI, min 185m
+    bar: 74 POI, min 98m
+    ristoranti: 52 POI, min 105m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    mense: 0 POI, min —
+[76/309] Padova — Rovigo
+  Coord: 45.40665, 11.87744
+    cinema: 5 POI, min 372m
+      [Overpass 429] attendo 15s…
+    palestre: 17 POI, min 611m
+    bar: 218 POI, min 53m
+      [Overpass 429] attendo 15s…
+    ristoranti: 231 POI, min 64m
+    mense: 0 POI, min —
+[77/309] Roma LUMSA — Roma
+  Coord: 41.89332, 12.48293
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+      [Overpass 429] attendo 15s…
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+      [Overpass 429] attendo 15s…
+    mense: 1 POI, min 1928m
+[78/309] Trieste — Portogruaro
+  Coord: 45.66017, 13.79478
+    cinema: 4 POI, min 1211m
+    palestre: 29 POI, min 683m
+    bar: 173 POI, min 86m
+      [Overpass 429] attendo 15s…
+    ristoranti: 156 POI, min 77m
+    mense: 0 POI, min —
+[79/309] Aosta — Aosta
+  Coord: 45.74322, 7.31822
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 440m
+    palestre: 11 POI, min 1008m
+      [Overpass 429] attendo 15s…
+    bar: 66 POI, min 294m
+    ristoranti: 93 POI, min 284m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[80/309] Bergamo — Bergamo
+  Coord: 45.68689, 9.66133
+    cinema: 4 POI, min 1314m
+      [Overpass 429] attendo 15s…
+    palestre: 15 POI, min 659m
+    bar: 186 POI, min 131m
+      [Overpass 429] attendo 15s…
+    ristoranti: 237 POI, min 150m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[81/309] Bolzano — Bressanone - Brixen
+  Coord: 46.71506, 11.65338
+      [Overpass 504] attendo 10s…
+    cinema: 1 POI, min 409m
+    palestre: 13 POI, min 393m
+      [Overpass 429] attendo 15s…
+    bar: 63 POI, min 95m
+      [Overpass 504] attendo 10s…
+    ristoranti: 61 POI, min 76m
+    mense: 0 POI, min —
+[82/309] Enna KORE — Enna
+  Coord: 37.53987, 14.28413
+    cinema: 0 POI, min —
+    palestre: 3 POI, min 1707m
+      [Overpass 504] attendo 10s…
+    bar: 6 POI, min 1140m
+    ristoranti: 2 POI, min 1866m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[83/309] Milano Bicocca — Milano
+  Coord: 45.51828, 9.21390
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    cinema: 3 POI, min 443m
+    palestre: 36 POI, min 310m
+      [Overpass 429] attendo 15s…
+    bar: 125 POI, min 286m
+      [Overpass 429] attendo 15s…
+    ristoranti: 174 POI, min 284m
+    mense: 0 POI, min —
+[84/309] Modena e Reggio Emilia — Reggio Nell'Emilia
+  Coord: 44.69784, 10.63050
+    cinema: 5 POI, min 277m
+    palestre: 56 POI, min 171m
+    bar: 173 POI, min 35m
+      [Overpass 429] attendo 15s…
+    ristoranti: 181 POI, min 30m
+    mense: 0 POI, min —
+[85/309] Palermo — Trapani
+  Coord: 38.03339, 12.53483
+    cinema: 2 POI, min 1630m
+    palestre: 2 POI, min 649m
+    bar: 19 POI, min 712m
+    ristoranti: 16 POI, min 1127m
+    mense: 0 POI, min —
+[86/309] Roma Europea — Roma
+  Coord: 41.89332, 12.48293
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+      [Overpass 429] attendo 15s…
+    mense: 1 POI, min 1928m
+[87/309] Roma Link Campus — Citta' Di Castello
+  Coord: 43.30003, 13.43678
+    cinema: 1 POI, min 1217m
+    palestre: 10 POI, min 195m
+    bar: 50 POI, min 169m
+    ristoranti: 60 POI, min 199m
+    mense: 0 POI, min —
+[88/309] Roma LUMSA — Palermo
+  Coord: 38.11123, 13.35244
+      [Overpass 504] attendo 10s…
+    cinema: 6 POI, min 1071m
+    palestre: 9 POI, min 913m
+      [Overpass 429] attendo 15s…
+    bar: 249 POI, min 99m
+    ristoranti: 394 POI, min 75m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[89/309] Siena — Arezzo
+  Coord: 40.83889, 14.24283
+    cinema: 13 POI, min 332m
+    palestre: 13 POI, min 655m
+    bar: 436 POI, min 84m
+    ristoranti: 555 POI, min 106m
+    mense: 0 POI, min —
+[90/309] Torino — Biella
+  Coord: 45.07338, 7.69944
+      [Overpass 504] attendo 10s…
+    cinema: 10 POI, min 791m
+    palestre: 27 POI, min 170m
+      [Overpass 429] attendo 15s…
+    bar: 343 POI, min 101m
+    ristoranti: 630 POI, min 188m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[91/309] Torino — Savigliano
+  Coord: 45.07338, 7.69944
+    cinema: 10 POI, min 791m
+    palestre: 27 POI, min 170m
+    bar: 343 POI, min 101m
+    ristoranti: 630 POI, min 188m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[92/309] Torino — Collegno
+  Coord: 45.08282, 7.57841
+    cinema: 1 POI, min 1267m
+      [Overpass 429] attendo 15s…
+    palestre: 9 POI, min 346m
+    bar: 30 POI, min 282m
+    ristoranti: 40 POI, min 292m
+    mense: 0 POI, min —
+[93/309] Trieste — Trieste
+  Coord: 45.66017, 13.79478
+    cinema: 4 POI, min 1211m
+    palestre: 29 POI, min 683m
+      [Overpass 429] attendo 15s…
+    bar: 173 POI, min 86m
+    ristoranti: 156 POI, min 77m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[94/309] Firenze IUL - telematica — Firenze
+  Coord: 43.76980, 11.25564
+    cinema: 10 POI, min 281m
+    palestre: 14 POI, min 65m
+      [Overpass 429] attendo 15s…
+    bar: 412 POI, min 34m
+    ristoranti: 876 POI, min 28m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    mense: 0 POI, min —
+[95/309] Basilicata — Potenza
+  Coord: 40.64613, 15.80858
+    cinema: 2 POI, min 779m
+    palestre: 12 POI, min 365m
+    bar: 50 POI, min 407m
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 63 POI, min 406m
+    mense: 0 POI, min —
+[96/309] Benevento Giustino Fortunato - telematica — Benevento
+  Coord: 41.12956, 14.78246
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    cinema: 2 POI, min 82m
+    palestre: 6 POI, min 483m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    bar: 32 POI, min 31m
+    ristoranti: 34 POI, min 42m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[97/309] Catanzaro — Catanzaro
+  Coord: 38.90764, 16.59605
+    cinema: 2 POI, min 353m
+    palestre: 4 POI, min 417m
+      [Overpass 429] attendo 15s…
+    bar: 33 POI, min 326m
+      [Overpass 429] attendo 15s…
+    ristoranti: 21 POI, min 456m
+    mense: 0 POI, min —
+[98/309] Roma UNICUSANO - telematica — Roma
+  Coord: 41.89332, 12.48293
+    cinema: 18 POI, min 568m
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+    palestre: 14 POI, min 596m
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+    mense: 1 POI, min 1928m
+[99/309] Torrevecchia Teatina Leonardo da Vinci - telematica — Torrevecchia Teatina
+  Coord: 42.38176, 14.20927
+    cinema: 0 POI, min —
+    palestre: 4 POI, min 82m
+    bar: 5 POI, min 97m
+    ristoranti: 5 POI, min 51m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[100/309] Roma UNITELMA - telematica — Roma
+  Coord: 41.89332, 12.48293
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+      [Overpass 429] attendo 15s…
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+      [Overpass 429] attendo 15s…
+    mense: 1 POI, min 1928m
+[101/309] Torino — Venaria Reale
+  Coord: 45.07338, 7.69944
+    cinema: 10 POI, min 791m
+    palestre: 27 POI, min 170m
+      [Overpass 504] attendo 10s…
+    bar: 343 POI, min 101m
+    ristoranti: 630 POI, min 188m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+      [Overpass 504] attendo 30s…
+    mense: 0 POI, min —
+[102/309] Napoli Pegaso - telematica — Napoli
+  Coord: 40.83588, 14.24877
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+    cinema: 10 POI, min 494m
+    palestre: 9 POI, min 282m
+      [Overpass 429] attendo 15s…
+    bar: 404 POI, min 98m
+      [Overpass 429] attendo 15s…
+    ristoranti: 529 POI, min 139m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[103/309] Perugia Stranieri — Perugia
+  Coord: 43.11485, 12.38952
+      [Overpass 429] attendo 15s…
+    cinema: 5 POI, min 285m
+    palestre: 10 POI, min 696m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+    bar: 108 POI, min 30m
+    ristoranti: 188 POI, min 32m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[104/309] Piemonte Orientale — Vercelli
+  Coord: 45.32516, 8.42277
+    cinema: 1 POI, min 506m
+      [Overpass 504] attendo 10s…
+    palestre: 24 POI, min 428m
+      [Overpass 429] attendo 15s…
+    bar: 104 POI, min 17m
+    ristoranti: 74 POI, min 64m
+    mense: 0 POI, min —
+[105/309] Siena Stranieri — Siena
+  Coord: 43.33122, 11.32146
+    cinema: 4 POI, min 1305m
+    palestre: 17 POI, min 304m
+    bar: 93 POI, min 88m
+    ristoranti: 236 POI, min 121m
+    mense: 0 POI, min —
+[106/309] Modena e Reggio Emilia — Modena
+  Coord: 44.64589, 10.92557
+    cinema: 6 POI, min 176m
+      [Overpass 504] attendo 10s…
+    palestre: 41 POI, min 585m
+    bar: 120 POI, min 44m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 227 POI, min 35m
+    mense: 0 POI, min —
+[107/309] Insubria — Varese
+  Coord: 45.81427, 8.82740
+      [Overpass 429] attendo 15s…
+    cinema: 3 POI, min 273m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    palestre: 14 POI, min 275m
+      [Overpass 504] attendo 10s…
+    bar: 100 POI, min 130m
+      [Overpass 429] attendo 15s…
+    ristoranti: 107 POI, min 105m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[108/309] Roma UNINT — Roma
+  Coord: 41.89332, 12.48293
+      [Overpass 429] attendo 15s…
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+      [Overpass 429] attendo 15s…
+    bar: 523 POI, min 126m
+      [Overpass 429] attendo 15s…
+    ristoranti: 1291 POI, min 113m
+      [Overpass 429] attendo 15s…
+    mense: 1 POI, min 1928m
+[109/309] Insubria — Como
+  Coord: 45.80199, 9.09539
+    cinema: 3 POI, min 656m
+      [Overpass 429] attendo 15s…
+    palestre: 19 POI, min 135m
+      [Overpass 429] attendo 15s…
+    bar: 104 POI, min 186m
+      [Overpass 429] attendo 15s…
+    ristoranti: 170 POI, min 125m
+    mense: 0 POI, min —
+[110/309] Milano — Sesto San Giovanni
+  Coord: 45.52176, 9.23274
+      [Overpass 429] attendo 15s…
+    cinema: 3 POI, min 572m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    palestre: 29 POI, min 612m
+    bar: 172 POI, min 95m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+    ristoranti: 202 POI, min 36m
+    mense: 0 POI, min —
+[111/309] Catania — Ragusa
+  Coord: 37.52094, 15.06187
+      [Overpass 429] attendo 15s…
+    cinema: 2 POI, min 1728m
+    palestre: 19 POI, min 873m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    bar: 72 POI, min 373m
+    ristoranti: 53 POI, min 371m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[112/309] Bologna — Forli'
+  Coord: 44.49829, 11.35446
+    cinema: 22 POI, min 342m
+      [Overpass 429] attendo 15s…
+    palestre: 29 POI, min 214m
+      [Overpass 429] attendo 15s…
+    bar: 477 POI, min 56m
+    ristoranti: 591 POI, min 56m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[113/309] Ca' Foscari Venezia — Treviso
+  Coord: 45.43450, 12.32645
+    cinema: 3 POI, min 527m
+    palestre: 5 POI, min 591m
+    bar: 253 POI, min 132m
+    ristoranti: 630 POI, min 30m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[114/309] Reggio Calabria - Dante Alighieri — Reggio Di Calabria
+  Coord: 38.10354, 15.63976
+      [Overpass 429] attendo 15s…
+    cinema: 3 POI, min 323m
+    palestre: 20 POI, min 631m
+      [Overpass 429] attendo 15s…
+    bar: 24 POI, min 113m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 29 POI, min 52m
+    mense: 0 POI, min —
+[115/309] Marche — Ancona
+  Coord: 43.58669, 13.51537
+    cinema: 0 POI, min —
+    palestre: 15 POI, min 597m
+    bar: 34 POI, min 148m
+    ristoranti: 38 POI, min 176m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[116/309] Milano Bocconi — Milano
+  Coord: 45.45083, 9.19475
+      [Overpass 504] attendo 10s…
+    cinema: 8 POI, min 1068m
+    palestre: 34 POI, min 421m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    bar: 536 POI, min 48m
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 936 POI, min 17m
+    mense: 0 POI, min —
+[117/309] Molise — Termoli
+  Coord: 41.55380, 14.66486
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    palestre: 10 POI, min 716m
+    bar: 6 POI, min 180m
+      [Overpass 429] attendo 15s…
+    ristoranti: 26 POI, min 605m
+    mense: 0 POI, min —
+[118/309] Napoli Vanvitelli — Caserta
+  Coord: 41.06722, 14.33052
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 20 POI, min 264m
+    bar: 44 POI, min 214m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 59 POI, min 177m
+    mense: 0 POI, min —
+[119/309] Catania — Siracusa
+  Coord: 37.52094, 15.06187
+      [Overpass 429] attendo 15s…
+    cinema: 2 POI, min 1728m
+    palestre: 19 POI, min 873m
+    bar: 72 POI, min 373m
+    ristoranti: 53 POI, min 371m
+    mense: 0 POI, min —
+[120/309] Genova — Imperia
+  Coord: 44.41489, 8.92667
+    cinema: 9 POI, min 826m
+    palestre: 29 POI, min 312m
+    bar: 372 POI, min 26m
+      [Overpass 504] attendo 10s…
+    ristoranti: 478 POI, min 95m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[121/309] Piemonte Orientale — Novara
+  Coord: 45.44640, 8.61965
+    cinema: 4 POI, min 512m
+      [Overpass 429] attendo 15s…
+    palestre: 17 POI, min 73m
+    bar: 82 POI, min 15m
+      [Overpass 429] attendo 15s…
+    ristoranti: 83 POI, min 99m
+    mense: 0 POI, min —
+[122/309] Pisa — Lucca
+  Coord: 43.71831, 10.39692
+      [Overpass 504] attendo 10s…
+    cinema: 9 POI, min 321m
+    palestre: 28 POI, min 494m
+      [Overpass 429] attendo 15s…
+    bar: 184 POI, min 28m
+    ristoranti: 311 POI, min 26m
+      [Overpass 429] attendo 15s…
+    mense: 4 POI, min 356m
+[123/309] Brescia — Brescia
+  Coord: 45.68846, 10.66536
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 256m
+    palestre: 1 POI, min 321m
+      [Overpass 429] attendo 15s…
+    bar: 11 POI, min 42m
+    ristoranti: 25 POI, min 74m
+    mense: 0 POI, min —
+[124/309] Napoli Vanvitelli — Capua
+  Coord: 41.06722, 14.33052
+    cinema: 0 POI, min —
+    palestre: 20 POI, min 264m
+    bar: 44 POI, min 214m
+    ristoranti: 59 POI, min 177m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    mense: 0 POI, min —
+[125/309] Piemonte Orientale — Alessandria
+  Coord: 44.91299, 8.61546
+    cinema: 2 POI, min 79m
+    palestre: 27 POI, min 336m
+    bar: 185 POI, min 13m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 135 POI, min 42m
+    mense: 0 POI, min —
+[126/309] Roma Luiss — Roma
+  Coord: 41.89332, 12.48293
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+      [Overpass 504] attendo 10s…
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    mense: 1 POI, min 1928m
+[127/309] Verona — Vicenza
+  Coord: 45.43634, 11.00303
+    cinema: 3 POI, min 887m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    palestre: 13 POI, min 273m
+    bar: 204 POI, min 115m
+      [Overpass 429] attendo 15s…
+    ristoranti: 332 POI, min 47m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[128/309] Bari — Brindisi
+  Coord: 41.10949, 16.88169
+    cinema: 5 POI, min 992m
+    palestre: 16 POI, min 406m
+      [Overpass 429] attendo 15s…
+    bar: 169 POI, min 176m
+    ristoranti: 177 POI, min 163m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[129/309] Bari — Taranto
+  Coord: 40.52607, 17.28231
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 1 POI, min 1492m
+      [Overpass 429] attendo 15s…
+    bar: 6 POI, min 1185m
+    ristoranti: 2 POI, min 1267m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[130/309] Bolzano — Brunico - Bruneck
+  Coord: 46.49830, 11.35010
+    cinema: 3 POI, min 511m
+    palestre: 14 POI, min 347m
+    bar: 200 POI, min 62m
+    ristoranti: 174 POI, min 60m
+    mense: 1 POI, min 1560m
+[131/309] Brescia — Mantova
+  Coord: 45.68846, 10.66536
+    cinema: 1 POI, min 256m
+    palestre: 1 POI, min 321m
+    bar: 11 POI, min 42m
+    ristoranti: 25 POI, min 74m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[132/309] Ca' Foscari Venezia — Roncade
+  Coord: 45.43450, 12.32645
+    cinema: 3 POI, min 527m
+    palestre: 5 POI, min 591m
+    bar: 253 POI, min 132m
+    ristoranti: 630 POI, min 30m
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+    mense: 0 POI, min —
+[133/309] Casamassima  LUM G. Degennaro — Casamassima
+  Coord: 40.95713, 16.92039
+    cinema: 1 POI, min 1632m
+      [Overpass 429] attendo 15s…
+    palestre: 1 POI, min 218m
+      [Overpass 504] attendo 10s…
+    bar: 4 POI, min 300m
+    ristoranti: 11 POI, min 282m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[134/309] Cassino — Frosinone
+  Coord: 41.64198, 13.34693
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 14 POI, min 173m
+    bar: 37 POI, min 144m
+      [Overpass 429] attendo 15s…
+    ristoranti: 58 POI, min 142m
+    mense: 0 POI, min —
+[135/309] Castellanza LIUC — Castellanza
+  Coord: 45.61019, 8.90246
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    cinema: 0 POI, min —
+    palestre: 15 POI, min 623m
+      [Overpass 429] attendo 15s…
+    bar: 48 POI, min 66m
+      [Overpass 429] attendo 15s…
+    ristoranti: 66 POI, min 64m
+    mense: 0 POI, min —
+[136/309] Marche — San Benedetto Del Tronto
+  Coord: 42.91599, 13.90164
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 590m
+      [Overpass 504] attendo 10s…
+    palestre: 13 POI, min 241m
+      [Overpass 429] attendo 15s…
+    bar: 20 POI, min 35m
+    ristoranti: 35 POI, min 41m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[137/309] Milano Cattolica — Cremona
+  Coord: 45.14376, 9.98965
+    cinema: 1 POI, min 880m
+      [Overpass 429] attendo 15s…
+    palestre: 5 POI, min 1094m
+      [Overpass 429] attendo 15s…
+    bar: 10 POI, min 712m
+    ristoranti: 32 POI, min 397m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    mense: 0 POI, min —
+[138/309] Milano Cattolica — Roma
+  Coord: 41.93423, 12.42802
+    cinema: 1 POI, min 1706m
+      [Overpass 429] attendo 15s…
+    palestre: 7 POI, min 1043m
+      [Overpass 429] attendo 15s…
+    bar: 49 POI, min 330m
+      [Overpass 504] attendo 10s…
+    ristoranti: 43 POI, min 333m
+    mense: 0 POI, min —
+[139/309] Perugia — Terni
+  Coord: 42.52198, 12.51409
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 516m
+    palestre: 3 POI, min 1295m
+    bar: 11 POI, min 308m
+    ristoranti: 11 POI, min 401m
+    mense: 0 POI, min —
+[140/309] Pisa — Livorno
+  Coord: 43.71831, 10.39692
+    cinema: 9 POI, min 321m
+    palestre: 28 POI, min 494m
+    bar: 184 POI, min 28m
+      [Overpass 504] attendo 10s…
+    ristoranti: 311 POI, min 26m
+      [Overpass 429] attendo 15s…
+    mense: 4 POI, min 356m
+[141/309] Roma La Sapienza — Rieti
+  Coord: 42.40255, 12.86053
+    cinema: 1 POI, min 226m
+      [Overpass 504] attendo 10s…
+    palestre: 8 POI, min 314m
+      [Overpass 504] attendo 10s…
+    bar: 36 POI, min 22m
+    ristoranti: 39 POI, min 75m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    mense: 0 POI, min —
+[142/309] Roma La Sapienza — Latina
+  Coord: 41.46730, 12.90375
+    cinema: 3 POI, min 102m
+      [Overpass 429] attendo 15s…
+    palestre: 10 POI, min 523m
+    bar: 58 POI, min 53m
+      [Overpass 429] attendo 15s…
+    ristoranti: 77 POI, min 50m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[143/309] Sannio — Benevento
+  Coord: 41.12956, 14.78246
+    cinema: 2 POI, min 82m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    palestre: 6 POI, min 483m
+    bar: 32 POI, min 31m
+      [Overpass 429] attendo 15s…
+    ristoranti: 34 POI, min 42m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[144/309] Torino — Cuneo
+  Coord: 44.39318, 7.54754
+    cinema: 4 POI, min 614m
+      [Overpass 429] attendo 15s…
+    palestre: 28 POI, min 106m
+    bar: 96 POI, min 56m
+      [Overpass 429] attendo 15s…
+    ristoranti: 119 POI, min 86m
+    mense: 0 POI, min —
+[145/309] Tuscia — Civitavecchia
+  Coord: 42.08460, 11.80291
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 830m
+    palestre: 4 POI, min 1133m
+      [Overpass 429] attendo 15s…
+    bar: 37 POI, min 418m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 91 POI, min 79m
+    mense: 0 POI, min —
+[146/309] Udine — Pordenone
+  Coord: 46.06651, 13.24132
+      [Overpass 429] attendo 15s…
+    cinema: 3 POI, min 752m
+      [Overpass 429] attendo 15s…
+    palestre: 37 POI, min 324m
+    bar: 217 POI, min 147m
+      [Overpass 429] attendo 15s…
+    ristoranti: 166 POI, min 157m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+    mense: 0 POI, min —
+[147/309] Urbino — Fano
+  Coord: 43.84242, 13.01466
+    cinema: 3 POI, min 353m
+      [Overpass 504] attendo 10s…
+    palestre: 12 POI, min 496m
+      [Overpass 429] attendo 15s…
+    bar: 86 POI, min 92m
+    ristoranti: 100 POI, min 50m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[148/309] Napoli Parthenope — Nola
+  Coord: 40.75946, 14.43722
+    cinema: 1 POI, min 817m
+      [Overpass 429] attendo 15s…
+    palestre: 9 POI, min 185m
+    bar: 74 POI, min 98m
+      [Overpass 429] attendo 15s…
+    ristoranti: 52 POI, min 105m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[149/309] Bra Scienze Gastronomiche — Bra
+  Coord: 44.69768, 7.85427
+    cinema: 2 POI, min 128m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+    palestre: 22 POI, min 297m
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+    bar: 40 POI, min 13m
+    ristoranti: 53 POI, min 60m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[150/309] Bologna — Cesena
+  Coord: 44.49829, 11.35446
+      [Overpass 429] attendo 15s…
+    cinema: 22 POI, min 342m
+    palestre: 29 POI, min 214m
+    bar: 477 POI, min 56m
+    ristoranti: 591 POI, min 56m
+    mense: 0 POI, min —
+[151/309] Camerino — Camerino
+  Coord: 43.13963, 13.06722
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 2 POI, min 1951m
+    bar: 12 POI, min 384m
+    ristoranti: 17 POI, min 385m
+    mense: 2 POI, min 166m
+[152/309] Padova — Legnaro
+  Coord: 45.40665, 11.87744
+    cinema: 5 POI, min 372m
+    palestre: 17 POI, min 611m
+    bar: 218 POI, min 53m
+    ristoranti: 231 POI, min 64m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[153/309] Ferrara — Rovigo
+  Coord: 44.83338, 11.62640
+      [Overpass 429] attendo 15s…
+    cinema: 4 POI, min 547m
+    palestre: 24 POI, min 1029m
+    bar: 131 POI, min 197m
+    ristoranti: 151 POI, min 196m
+    mense: 0 POI, min —
+[154/309] Messina — Priolo Gargallo
+  Coord: 38.22964, 15.55110
+    cinema: 0 POI, min —
+    palestre: 2 POI, min 117m
+    bar: 1 POI, min 1540m
+    ristoranti: 1 POI, min 1559m
+    mense: 0 POI, min —
+[155/309] Padova — Treviso
+  Coord: 45.87967, 12.28480
+    cinema: 1 POI, min 1722m
+    palestre: 7 POI, min 472m
+      [Overpass 429] attendo 15s…
+    bar: 65 POI, min 298m
+      [Overpass 504] attendo 10s…
+    ristoranti: 54 POI, min 105m
+    mense: 0 POI, min —
+[156/309] Teramo — Avezzano
+  Coord: 42.66977, 13.70037
+    cinema: 2 POI, min 1034m
+    palestre: 10 POI, min 547m
+    bar: 52 POI, min 39m
+    ristoranti: 20 POI, min 867m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[157/309] Teramo — Lanciano
+  Coord: 42.66977, 13.70037
+    cinema: 2 POI, min 1034m
+      [Overpass 429] attendo 15s…
+    palestre: 10 POI, min 547m
+    bar: 52 POI, min 39m
+      [Overpass 429] attendo 15s…
+    ristoranti: 20 POI, min 867m
+    mense: 0 POI, min —
+[158/309] Perugia — Narni
+  Coord: 42.52198, 12.51409
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 516m
+    palestre: 3 POI, min 1295m
+      [Overpass 429] attendo 15s…
+    bar: 11 POI, min 308m
+    ristoranti: 11 POI, min 401m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[159/309] Sassari — Nuoro
+  Coord: 40.71321, 8.55658
+    cinema: 1 POI, min 1713m
+    palestre: 9 POI, min 464m
+    bar: 42 POI, min 347m
+      [Overpass 429] attendo 15s…
+    ristoranti: 50 POI, min 241m
+    mense: 0 POI, min —
+[160/309] Trieste — Gorizia
+  Coord: 45.93961, 13.63127
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    cinema: 1 POI, min 794m
+    palestre: 33 POI, min 387m
+    bar: 81 POI, min 316m
+    ristoranti: 59 POI, min 289m
+    mense: 0 POI, min —
+[161/309] Genova — Savona
+  Coord: 44.41489, 8.92667
+    cinema: 9 POI, min 826m
+    palestre: 29 POI, min 312m
+    bar: 372 POI, min 26m
+    ristoranti: 478 POI, min 95m
+    mense: 0 POI, min —
+[162/309] Trento — Rovereto
+  Coord: 45.88655, 11.04524
+    cinema: 1 POI, min 466m
+    palestre: 22 POI, min 109m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    bar: 76 POI, min 36m
+    ristoranti: 61 POI, min 115m
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+    mense: 0 POI, min —
+[163/309] Napoli Federico II — Pozzuoli
+  Coord: 40.84776, 14.25660
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+      [Overpass 504] attendo 40s…
+    cinema: 0 POI, min —
+    palestre: 10 POI, min 213m
+    bar: 435 POI, min 52m
+      [Overpass 429] attendo 15s…
+    ristoranti: 541 POI, min 58m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[164/309] Roma Link Campus — Napoli
+  Coord: 43.30003, 13.43678
+    cinema: 1 POI, min 1217m
+      [Overpass 429] attendo 15s…
+    palestre: 10 POI, min 195m
+    bar: 50 POI, min 169m
+      [Overpass 429] attendo 15s…
+    ristoranti: 60 POI, min 199m
+    mense: 0 POI, min —
+[165/309] Salento — Brindisi
+  Coord: 40.63908, 17.94519
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    cinema: 2 POI, min 1184m
+    palestre: 7 POI, min 259m
+      [Overpass 429] attendo 15s…
+    bar: 108 POI, min 41m
+    ristoranti: 148 POI, min 39m
+    mense: 0 POI, min —
+[166/309] Bologna — Ozzano Dell'Emilia
+  Coord: 44.49829, 11.35446
+    cinema: 22 POI, min 342m
+    palestre: 29 POI, min 214m
+      [Overpass 429] attendo 15s…
+    bar: 477 POI, min 56m
+    ristoranti: 591 POI, min 56m
+    mense: 0 POI, min —
+[167/309] Camerino — Matelica
+  Coord: 43.13963, 13.06722
+    cinema: 0 POI, min —
+    palestre: 2 POI, min 1951m
+    bar: 12 POI, min 384m
+    ristoranti: 17 POI, min 385m
+    mense: 2 POI, min 166m
+[168/309] Milano — Lodi
+  Coord: 45.46011, 9.19532
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    cinema: 9 POI, min 452m
+    palestre: 35 POI, min 502m
+      [Overpass 429] attendo 15s…
+    bar: 648 POI, min 119m
+    ristoranti: 1129 POI, min 125m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[169/309] Torino — Grugliasco
+  Coord: 45.07338, 7.69944
+    cinema: 10 POI, min 791m
+      [Overpass 429] attendo 15s…
+    palestre: 27 POI, min 170m
+    bar: 343 POI, min 101m
+      [Overpass 429] attendo 15s…
+    ristoranti: 630 POI, min 188m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[170/309] Napoli Federico II — Portici
+  Coord: 40.84776, 14.25660
+      [Overpass 429] attendo 15s…
+    cinema: 9 POI, min 114m
+    palestre: 10 POI, min 213m
+      [Overpass 429] attendo 15s…
+    bar: 435 POI, min 52m
+      [Overpass 429] attendo 15s…
+    ristoranti: 541 POI, min 58m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[171/309] Trento — San Michele All'Adige
+  Coord: 46.19291, 11.13358
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 1 POI, min 134m
+    bar: 8 POI, min 108m
+      [Overpass 429] attendo 15s…
+    ristoranti: 7 POI, min 176m
+    mense: 0 POI, min —
+[172/309] Tuscia — Rieti
+  Coord: 42.38374, 12.95383
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 0 POI, min —
+    bar: 5 POI, min 496m
+      [Overpass 429] attendo 15s…
+    ristoranti: 3 POI, min 444m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[173/309] Bologna — Imola
+  Coord: 44.49829, 11.35446
+    cinema: 22 POI, min 342m
+      [Overpass 429] attendo 15s…
+    palestre: 29 POI, min 214m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    bar: 477 POI, min 56m
+    ristoranti: 591 POI, min 56m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    mense: 0 POI, min —
+[174/309] Marche — Ascoli Piceno
+  Coord: 42.91599, 13.90164
+    cinema: 1 POI, min 590m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    palestre: 13 POI, min 241m
+      [Overpass 504] attendo 10s…
+    bar: 20 POI, min 35m
+      [Overpass 429] attendo 15s…
+    ristoranti: 35 POI, min 41m
+    mense: 0 POI, min —
+[175/309] Milano — Edolo
+  Coord: 46.17632, 10.33205
+    cinema: 0 POI, min —
+    palestre: 2 POI, min 146m
+    bar: 10 POI, min 214m
+    ristoranti: 12 POI, min 158m
+    mense: 0 POI, min —
+[176/309] Napoli Federico II — Avellino
+  Coord: 40.84776, 14.25660
+    cinema: 9 POI, min 114m
+    palestre: 10 POI, min 213m
+    bar: 435 POI, min 52m
+    ristoranti: 541 POI, min 58m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[177/309] Padova — Conegliano
+  Coord: 45.87967, 12.28480
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    cinema: 1 POI, min 1722m
+    palestre: 7 POI, min 472m
+      [Overpass 429] attendo 15s…
+    bar: 65 POI, min 298m
+    ristoranti: 54 POI, min 105m
+    mense: 0 POI, min —
+[178/309] Palermo — Caltanissetta
+  Coord: 38.03339, 12.53483
+    cinema: 2 POI, min 1630m
+    palestre: 2 POI, min 649m
+    bar: 19 POI, min 712m
+    ristoranti: 16 POI, min 1127m
+    mense: 0 POI, min —
+[179/309] Verona — San Pietro In Cariano
+  Coord: 45.43634, 11.00303
+    cinema: 3 POI, min 887m
+    palestre: 13 POI, min 273m
+    bar: 204 POI, min 115m
+    ristoranti: 332 POI, min 47m
+    mense: 0 POI, min —
+[180/309] Padova — Vicenza
+  Coord: 45.40665, 11.87744
+    cinema: 5 POI, min 372m
+    palestre: 17 POI, min 611m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    bar: 218 POI, min 53m
+    ristoranti: 231 POI, min 64m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[181/309] Roma Biomedico — Roma
+  Coord: 41.89332, 12.48293
+    cinema: 18 POI, min 568m
+      [Overpass 429] attendo 15s…
+    palestre: 14 POI, min 596m
+    bar: 523 POI, min 126m
+      [Overpass 504] attendo 10s…
+    ristoranti: 1291 POI, min 113m
+    mense: 1 POI, min 1928m
+[182/309] Roma La Sapienza — Viterbo
+  Coord: 42.41684, 12.10511
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 767m
+      [Overpass 504] attendo 10s…
+    palestre: 19 POI, min 702m
+    bar: 65 POI, min 36m
+      [Overpass 429] attendo 15s…
+    ristoranti: 72 POI, min 40m
+    mense: 0 POI, min —
+[183/309] Sassari — Oristano
+  Coord: 40.71321, 8.55658
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    cinema: 1 POI, min 1713m
+    palestre: 9 POI, min 464m
+      [Overpass 429] attendo 15s…
+    bar: 42 POI, min 347m
+    ristoranti: 50 POI, min 241m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[184/309] Torino — Asti
+  Coord: 45.07338, 7.69944
+    cinema: 10 POI, min 791m
+    palestre: 27 POI, min 170m
+      [Overpass 429] attendo 15s…
+    bar: 343 POI, min 101m
+      [Overpass 504] attendo 10s…
+    ristoranti: 630 POI, min 188m
+    mense: 0 POI, min —
+[185/309] Bari — Valenzano
+  Coord: 41.10949, 16.88169
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    cinema: 5 POI, min 992m
+    palestre: 16 POI, min 406m
+      [Overpass 429] attendo 15s…
+    bar: 169 POI, min 176m
+    ristoranti: 177 POI, min 163m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+      [Overpass 504] attendo 30s…
+    mense: 0 POI, min —
+[186/309] Bologna — Cesenatico
+  Coord: 44.49829, 11.35446
+    cinema: 22 POI, min 342m
+    palestre: 29 POI, min 214m
+    bar: 477 POI, min 56m
+    ristoranti: 591 POI, min 56m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[187/309] Catanzaro — Crotone
+  Coord: 39.08062, 17.12720
+    cinema: 2 POI, min 123m
+    palestre: 22 POI, min 407m
+      [Overpass 429] attendo 15s…
+    bar: 121 POI, min 48m
+    ristoranti: 110 POI, min 42m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    mense: 0 POI, min —
+[188/309] Milano Bicocca — Monza
+  Coord: 45.60389, 9.26132
+    cinema: 1 POI, min 1575m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+    palestre: 15 POI, min 450m
+    bar: 58 POI, min 309m
+      [Overpass 429] attendo 15s…
+    ristoranti: 72 POI, min 74m
+    mense: 0 POI, min —
+[189/309] Milano Bicocca — Bergamo
+  Coord: 45.51828, 9.21390
+    cinema: 3 POI, min 443m
+      [Overpass 429] attendo 15s…
+    palestre: 36 POI, min 310m
+    bar: 125 POI, min 286m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 174 POI, min 284m
+    mense: 0 POI, min —
+[190/309] Milano Cattolica — Bolzano - Bozen
+  Coord: 45.53786, 10.22428
+      [Overpass 429] attendo 15s…
+    cinema: 6 POI, min 280m
+      [Overpass 429] attendo 15s…
+    palestre: 17 POI, min 286m
+    bar: 205 POI, min 57m
+    ristoranti: 268 POI, min 77m
+    mense: 0 POI, min —
+[191/309] Milano San Raffaele — Milano
+  Coord: 45.50681, 9.26517
+    cinema: 0 POI, min —
+    palestre: 21 POI, min 240m
+      [Overpass 429] attendo 15s…
+    bar: 59 POI, min 101m
+    ristoranti: 63 POI, min 75m
+    mense: 0 POI, min —
+[192/309] Napoli Vanvitelli — Napoli
+  Coord: 41.06722, 14.33052
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 20 POI, min 264m
+    bar: 44 POI, min 214m
+      [Overpass 429] attendo 15s…
+    ristoranti: 59 POI, min 177m
+    mense: 0 POI, min —
+[193/309] Parma — Piacenza
+  Coord: 44.80425, 10.33521
+    cinema: 3 POI, min 755m
+    palestre: 25 POI, min 58m
+    bar: 241 POI, min 110m
+      [Overpass 504] attendo 10s…
+    ristoranti: 219 POI, min 72m
+    mense: 0 POI, min —
+[194/309] Roma Link Campus — Novedrate
+  Coord: 43.30003, 13.43678
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 1217m
+    palestre: 10 POI, min 195m
+    bar: 50 POI, min 169m
+    ristoranti: 60 POI, min 199m
+    mense: 0 POI, min —
+[195/309] Roma Link Campus — Siracusa
+  Coord: 43.30003, 13.43678
+    cinema: 1 POI, min 1217m
+    palestre: 10 POI, min 195m
+    bar: 50 POI, min 169m
+      [Overpass 504] attendo 10s…
+    ristoranti: 60 POI, min 199m
+    mense: 0 POI, min —
+[196/309] Roma Saint Camillus — Cefalu'
+  Coord: 38.03496, 14.02446
+    cinema: 1 POI, min 413m
+    palestre: 0 POI, min —
+    bar: 23 POI, min 249m
+      [Overpass 504] attendo 10s…
+    ristoranti: 63 POI, min 257m
+    mense: 0 POI, min —
+[197/309] Roma Saint Camillus — Roma
+  Coord: 41.89332, 12.48293
+      [Overpass 429] attendo 15s…
+    cinema: 18 POI, min 568m
+    palestre: 14 POI, min 596m
+    bar: 523 POI, min 126m
+    ristoranti: 1291 POI, min 113m
+      [Overpass 429] attendo 15s…
+    mense: 1 POI, min 1928m
+[198/309] Roma Saint Camillus — Venezia
+  Coord: 45.40462, 12.31052
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+    palestre: 1 POI, min 682m
+      [Overpass 429] attendo 15s…
+    bar: 0 POI, min —
+    ristoranti: 1 POI, min 718m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[199/309] Rozzano (MI) Humanitas University — Pieve Emanuele
+  Coord: 45.37034, 9.17187
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+      [Overpass 504] attendo 10s…
+    palestre: 14 POI, min 600m
+      [Overpass 504] attendo 10s…
+    bar: 12 POI, min 105m
+    ristoranti: 16 POI, min 104m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[200/309] Salerno — Baronissi
+  Coord: 40.75537, 14.78073
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 6 POI, min 160m
+      [Overpass 429] attendo 15s…
+    bar: 5 POI, min 695m
+    ristoranti: 15 POI, min 236m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[201/309] Torino — Orbassano
+  Coord: 45.02962, 7.55623
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+    palestre: 4 POI, min 1704m
+      [Overpass 429] attendo 15s…
+    bar: 2 POI, min 218m
+    ristoranti: 3 POI, min 1857m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[202/309] Brescia — Cremona
+  Coord: 45.68846, 10.66536
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 256m
+      [Overpass 504] attendo 10s…
+    palestre: 1 POI, min 321m
+    bar: 11 POI, min 42m
+      [Overpass 429] attendo 15s…
+    ristoranti: 25 POI, min 74m
+    mense: 0 POI, min —
+[203/309] Padova — Bolzano - Bozen
+  Coord: 45.40665, 11.87744
+      [Overpass 429] attendo 15s…
+    cinema: 5 POI, min 372m
+    palestre: 17 POI, min 611m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    bar: 218 POI, min 53m
+      [Overpass 504] attendo 10s…
+    ristoranti: 231 POI, min 64m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[204/309] Padova — Feltre
+  Coord: 45.40665, 11.87744
+      [Overpass 429] attendo 15s…
+    cinema: 5 POI, min 372m
+    palestre: 17 POI, min 611m
+      [Overpass 429] attendo 15s…
+    bar: 218 POI, min 53m
+    ristoranti: 231 POI, min 64m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[205/309] Roma La Sapienza — Frosinone
+  Coord: 41.64071, 13.35092
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    palestre: 14 POI, min 174m
+    bar: 35 POI, min 80m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+    ristoranti: 58 POI, min 60m
+    mense: 0 POI, min —
+[206/309] Verona — Trento
+  Coord: 45.43634, 11.00303
+    cinema: 3 POI, min 887m
+    palestre: 13 POI, min 273m
+    bar: 204 POI, min 115m
+    ristoranti: 332 POI, min 47m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[207/309] Bologna — Faenza
+  Coord: 44.49829, 11.35446
+    cinema: 22 POI, min 342m
+      [Overpass 429] attendo 15s…
+    palestre: 29 POI, min 214m
+    bar: 477 POI, min 56m
+      [Overpass 429] attendo 15s…
+    ristoranti: 591 POI, min 56m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[208/309] Catania — Troina
+  Coord: 37.52094, 15.06187
+      [Overpass 429] attendo 15s…
+    cinema: 2 POI, min 1728m
+    palestre: 19 POI, min 873m
+      [Overpass 429] attendo 15s…
+    bar: 72 POI, min 373m
+      [Overpass 429] attendo 15s…
+    ristoranti: 53 POI, min 371m
+    mense: 0 POI, min —
+[209/309] Ferrara — Bolzano - Bozen
+  Coord: 44.83338, 11.62640
+      [Overpass 429] attendo 15s…
+    cinema: 4 POI, min 547m
+    palestre: 24 POI, min 1029m
+      [Overpass 429] attendo 15s…
+    bar: 131 POI, min 197m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 151 POI, min 196m
+    mense: 0 POI, min —
+[210/309] Genova — Chiavari
+  Coord: 44.41489, 8.92667
+      [Overpass 429] attendo 15s…
+    cinema: 9 POI, min 826m
+      [Overpass 429] attendo 15s…
+    palestre: 29 POI, min 312m
+      [Overpass 504] attendo 10s…
+    bar: 372 POI, min 26m
+    ristoranti: 478 POI, min 95m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[211/309] Genova — Pietra Ligure
+  Coord: 44.41489, 8.92667
+    cinema: 9 POI, min 826m
+    palestre: 29 POI, min 312m
+    bar: 372 POI, min 26m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 478 POI, min 95m
+    mense: 0 POI, min —
+[212/309] Marche — Fermo
+  Coord: 43.15887, 13.72224
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 427m
+    palestre: 9 POI, min 451m
+    bar: 11 POI, min 130m
+    ristoranti: 11 POI, min 125m
+    mense: 0 POI, min —
+[213/309] Marche — Macerata
+  Coord: 43.92065, 12.90881
+    cinema: 0 POI, min —
+    palestre: 3 POI, min 712m
+    bar: 47 POI, min 50m
+    ristoranti: 75 POI, min 164m
+    mense: 0 POI, min —
+[214/309] Milano — Bosisio Parini
+  Coord: 45.46011, 9.19532
+      [Overpass 504] attendo 10s…
+    cinema: 9 POI, min 452m
+    palestre: 35 POI, min 502m
+      [Overpass 429] attendo 15s…
+    bar: 648 POI, min 119m
+    ristoranti: 1129 POI, min 125m
+    mense: 0 POI, min —
+[215/309] Milano — Mantova
+  Coord: 45.46011, 9.19532
+    cinema: 9 POI, min 452m
+    palestre: 35 POI, min 502m
+    bar: 648 POI, min 119m
+    ristoranti: 1129 POI, min 125m
+    mense: 0 POI, min —
+[216/309] Milano Bicocca — Carate Brianza
+  Coord: 45.51828, 9.21390
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    cinema: 3 POI, min 443m
+      [Overpass 504] attendo 10s…
+    palestre: 36 POI, min 310m
+    bar: 125 POI, min 286m
+      [Overpass 429] attendo 15s…
+    ristoranti: 174 POI, min 284m
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+      [Overpass 504] attendo 40s…
+    mense: 0 POI, min —
+[217/309] Milano Cattolica — Potenza
+  Coord: 45.53786, 10.22428
+    cinema: 6 POI, min 280m
+      [Overpass 504] attendo 10s…
+    palestre: 17 POI, min 286m
+    bar: 205 POI, min 57m
+      [Overpass 429] attendo 15s…
+    ristoranti: 268 POI, min 77m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[218/309] Milano Cattolica — Viterbo
+  Coord: 45.53786, 10.22428
+    cinema: 6 POI, min 280m
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+    palestre: 17 POI, min 286m
+    bar: 205 POI, min 57m
+      [Overpass 429] attendo 15s…
+    ristoranti: 268 POI, min 77m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[219/309] Milano Cattolica — Moncrivello
+  Coord: 45.53786, 10.22428
+      [Overpass 429] attendo 15s…
+    cinema: 6 POI, min 280m
+    palestre: 17 POI, min 286m
+      [Overpass 429] attendo 15s…
+    bar: 205 POI, min 57m
+      [Overpass 429] attendo 15s…
+    ristoranti: 268 POI, min 77m
+    mense: 0 POI, min —
+[220/309] Napoli Vanvitelli — Avellino
+  Coord: 41.06722, 14.33052
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    palestre: 20 POI, min 264m
+    bar: 44 POI, min 214m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 59 POI, min 177m
+    mense: 0 POI, min —
+[221/309] Napoli Vanvitelli — Grottaminarda
+  Coord: 41.06722, 14.33052
+    cinema: 0 POI, min —
+    palestre: 20 POI, min 264m
+    bar: 44 POI, min 214m
+    ristoranti: 59 POI, min 177m
+    mense: 0 POI, min —
+[222/309] Napoli Vanvitelli — Sant'Angelo Dei Lombardi
+  Coord: 41.06722, 14.33052
+    cinema: 0 POI, min —
+    palestre: 20 POI, min 264m
+      [Overpass 429] attendo 15s…
+    bar: 44 POI, min 214m
+    ristoranti: 59 POI, min 177m
+    mense: 0 POI, min —
+[223/309] Padova — Venezia
+  Coord: 45.40665, 11.87744
+    cinema: 5 POI, min 372m
+    palestre: 17 POI, min 611m
+    bar: 218 POI, min 53m
+    ristoranti: 231 POI, min 64m
+    mense: 0 POI, min —
+[224/309] Padova — Schio
+  Coord: 45.40665, 11.87744
+    cinema: 5 POI, min 372m
+      [Overpass 504] attendo 10s…
+    palestre: 17 POI, min 611m
+    bar: 218 POI, min 53m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 231 POI, min 64m
+    mense: 0 POI, min —
+[225/309] Perugia — Foligno
+  Coord: 43.11639, 12.38532
+      [Overpass 429] attendo 15s…
+    cinema: 5 POI, min 282m
+      [Overpass 504] attendo 10s…
+    palestre: 10 POI, min 616m
+    bar: 105 POI, min 48m
+      [Overpass 429] attendo 15s…
+    ristoranti: 190 POI, min 121m
+    mense: 0 POI, min —
+[226/309] Piemonte Orientale — Fossano
+  Coord: 44.53683, 7.66242
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+    cinema: 0 POI, min —
+    palestre: 1 POI, min 1402m
+      [Overpass 429] attendo 15s…
+    bar: 0 POI, min —
+      [Overpass 504] attendo 10s…
+    ristoranti: 1 POI, min 1316m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    mense: 0 POI, min —
+[227/309] Roma La Sapienza — Pozzilli
+  Coord: 41.51142, 14.06252
+    cinema: 0 POI, min —
+    palestre: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    bar: 4 POI, min 236m
+    ristoranti: 6 POI, min 183m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    mense: 0 POI, min —
+[228/309] Roma La Sapienza — Ariccia
+  Coord: 41.72071, 12.67135
+    cinema: 1 POI, min 1868m
+      [Overpass 429] attendo 15s…
+    palestre: 7 POI, min 1063m
+      [Overpass 504] attendo 10s…
+    bar: 16 POI, min 68m
+    ristoranti: 35 POI, min 191m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[229/309] Roma La Sapienza — Bracciano
+  Coord: 42.10110, 12.17386
+    cinema: 1 POI, min 186m
+    palestre: 14 POI, min 370m
+    bar: 27 POI, min 75m
+    ristoranti: 64 POI, min 78m
+    mense: 0 POI, min —
+[230/309] Verona — Rovereto
+  Coord: 45.43634, 11.00303
+    cinema: 3 POI, min 887m
+    palestre: 13 POI, min 273m
+      [Overpass 429] attendo 15s…
+    bar: 204 POI, min 115m
+    ristoranti: 332 POI, min 47m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[231/309] Foggia — Barletta
+  Coord: 41.31367, 16.25415
+    cinema: 1 POI, min 1891m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    palestre: 4 POI, min 1122m
+    bar: 60 POI, min 451m
+      [Overpass 429] attendo 15s…
+    ristoranti: 26 POI, min 763m
+    mense: 0 POI, min —
+[232/309] Milano Bicocca — Desio
+  Coord: 45.51828, 9.21390
+    cinema: 3 POI, min 443m
+    palestre: 36 POI, min 310m
+    bar: 125 POI, min 286m
+    ristoranti: 174 POI, min 284m
+    mense: 0 POI, min —
+[233/309] Napoli Vanvitelli — Maddaloni
+  Coord: 41.06722, 14.33052
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 20 POI, min 264m
+    bar: 44 POI, min 214m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    ristoranti: 59 POI, min 177m
+    mense: 0 POI, min —
+[234/309] Roma La Sapienza — Cassino
+  Coord: 41.49256, 13.83053
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+    palestre: 4 POI, min 271m
+    bar: 23 POI, min 36m
+    ristoranti: 37 POI, min 56m
+    mense: 0 POI, min —
+[235/309] Roma La Sapienza — Sora
+  Coord: 41.73292, 13.57133
+    cinema: 0 POI, min —
+    palestre: 0 POI, min —
+    bar: 0 POI, min —
+    ristoranti: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[236/309] Salerno — Salerno
+  Coord: 40.75537, 14.78073
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+    palestre: 6 POI, min 160m
+    bar: 5 POI, min 695m
+    ristoranti: 15 POI, min 236m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[237/309] Trieste — Pordenone
+  Coord: 45.66017, 13.79478
+    cinema: 4 POI, min 1211m
+      [Overpass 429] attendo 15s…
+    palestre: 29 POI, min 683m
+    bar: 173 POI, min 86m
+    ristoranti: 156 POI, min 77m
+    mense: 0 POI, min —
+[238/309] Bari — Castellana Grotte
+  Coord: 41.10949, 16.88169
+    cinema: 5 POI, min 992m
+    palestre: 16 POI, min 406m
+    bar: 169 POI, min 176m
+    ristoranti: 177 POI, min 163m
+    mense: 0 POI, min —
+[239/309] Brescia — Alzano Lombardo
+  Coord: 45.68846, 10.66536
+    cinema: 1 POI, min 256m
+    palestre: 1 POI, min 321m
+      [Overpass 429] attendo 15s…
+    bar: 11 POI, min 42m
+    ristoranti: 25 POI, min 74m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[240/309] Brescia — Chiari
+  Coord: 45.68846, 10.66536
+    cinema: 1 POI, min 256m
+      [Overpass 504] attendo 10s…
+    palestre: 1 POI, min 321m
+    bar: 11 POI, min 42m
+      [Overpass 429] attendo 15s…
+    ristoranti: 25 POI, min 74m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[241/309] Brescia — Desenzano Del Garda
+  Coord: 45.68846, 10.66536
+    cinema: 1 POI, min 256m
+    palestre: 1 POI, min 321m
+    bar: 11 POI, min 42m
+    ristoranti: 25 POI, min 74m
+    mense: 0 POI, min —
+[242/309] Brescia — Esine
+  Coord: 45.68846, 10.66536
+    cinema: 1 POI, min 256m
+      [Overpass 504] attendo 10s…
+    palestre: 1 POI, min 321m
+    bar: 11 POI, min 42m
+      [Overpass 429] attendo 15s…
+    ristoranti: 25 POI, min 74m
+    mense: 0 POI, min —
+[243/309] Cagliari — Nuoro
+  Coord: 39.22183, 9.11066
+    cinema: 3 POI, min 518m
+    palestre: 25 POI, min 142m
+    bar: 143 POI, min 127m
+    ristoranti: 269 POI, min 217m
+    mense: 0 POI, min —
+[244/309] Casamassima  LUM G. Degennaro — Acquaviva Delle Fonti
+  Coord: 40.89783, 16.84249
+    cinema: 0 POI, min —
+    palestre: 3 POI, min 673m
+      [Overpass 429] attendo 15s…
+    bar: 15 POI, min 74m
+    ristoranti: 20 POI, min 79m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[245/309] Catanzaro — Lamezia Terme
+  Coord: 38.96451, 16.30215
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+    cinema: 0 POI, min —
+    palestre: 5 POI, min 542m
+      [Overpass 429] attendo 15s…
+    bar: 27 POI, min 845m
+    ristoranti: 7 POI, min 995m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    mense: 0 POI, min —
+[246/309] Chieti e Pescara — Vasto
+  Coord: 42.12434, 14.70592
+    cinema: 1 POI, min 342m
+    palestre: 14 POI, min 486m
+    bar: 15 POI, min 315m
+    ristoranti: 46 POI, min 139m
+    mense: 0 POI, min —
+[247/309] Ferrara — Pieve Di Cento
+  Coord: 44.83338, 11.62640
+    cinema: 4 POI, min 547m
+    palestre: 24 POI, min 1029m
+    bar: 131 POI, min 197m
+    ristoranti: 151 POI, min 196m
+    mense: 0 POI, min —
+[248/309] Ferrara — Adria
+  Coord: 44.83338, 11.62640
+    cinema: 4 POI, min 547m
+    palestre: 24 POI, min 1029m
+      [Overpass 429] attendo 15s…
+    bar: 131 POI, min 197m
+    ristoranti: 151 POI, min 196m
+    mense: 0 POI, min —
+[249/309] Foggia — San Giovanni Rotondo
+  Coord: 41.46073, 15.55395
+      [Overpass 429] attendo 15s…
+    cinema: 2 POI, min 478m
+      [Overpass 429] attendo 15s…
+    palestre: 12 POI, min 912m
+    bar: 40 POI, min 98m
+    ristoranti: 50 POI, min 130m
+    mense: 0 POI, min —
+[250/309] Foggia — Matera
+  Coord: 41.46073, 15.55395
+    cinema: 2 POI, min 478m
+    palestre: 12 POI, min 912m
+    bar: 40 POI, min 98m
+    ristoranti: 50 POI, min 130m
+    mense: 0 POI, min —
+[251/309] Foggia — Lagonegro
+  Coord: 41.46073, 15.55395
+    cinema: 2 POI, min 478m
+    palestre: 12 POI, min 912m
+      [Overpass 429] attendo 15s…
+    bar: 40 POI, min 98m
+    ristoranti: 50 POI, min 130m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[252/309] Insubria — Busto Arsizio
+  Coord: 45.60932, 8.85746
+    cinema: 0 POI, min —
+    palestre: 25 POI, min 130m
+    bar: 108 POI, min 85m
+    ristoranti: 92 POI, min 228m
+    mense: 0 POI, min —
+[253/309] L'Aquila — Teramo
+  Coord: 42.35131, 13.39709
+    cinema: 0 POI, min —
+    palestre: 15 POI, min 348m
+    bar: 69 POI, min 41m
+    ristoranti: 100 POI, min 78m
+    mense: 0 POI, min —
+[254/309] Marche — Pesaro
+  Coord: 43.92065, 12.90881
+    cinema: 0 POI, min —
+    palestre: 3 POI, min 712m
+    bar: 47 POI, min 50m
+    ristoranti: 75 POI, min 164m
+    mense: 0 POI, min —
+[255/309] Milano — Crema
+  Coord: 45.46011, 9.19532
+    cinema: 9 POI, min 452m
+      [Overpass 504] attendo 10s…
+    palestre: 35 POI, min 502m
+    bar: 648 POI, min 119m
+      [Overpass 429] attendo 15s…
+    ristoranti: 1129 POI, min 125m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[256/309] Milano — Cernusco Sul Naviglio
+  Coord: 45.46011, 9.19532
+    cinema: 9 POI, min 452m
+      [Overpass 504] attendo 10s…
+    palestre: 35 POI, min 502m
+    bar: 648 POI, min 119m
+      [Overpass 429] attendo 15s…
+    ristoranti: 1129 POI, min 125m
+    mense: 0 POI, min —
+[257/309] Milano — Cesano Boscone
+  Coord: 45.46011, 9.19532
+      [Overpass 429] attendo 15s…
+    cinema: 9 POI, min 452m
+    palestre: 35 POI, min 502m
+    bar: 648 POI, min 119m
+    ristoranti: 1129 POI, min 125m
+    mense: 0 POI, min —
+[258/309] Milano — Magenta
+  Coord: 45.46011, 9.19532
+    cinema: 9 POI, min 452m
+    palestre: 35 POI, min 502m
+      [Overpass 429] attendo 15s…
+    bar: 648 POI, min 119m
+    ristoranti: 1129 POI, min 125m
+    mense: 0 POI, min —
+[259/309] Milano — Rho
+  Coord: 45.46011, 9.19532
+    cinema: 9 POI, min 452m
+    palestre: 35 POI, min 502m
+    bar: 648 POI, min 119m
+    ristoranti: 1129 POI, min 125m
+    mense: 0 POI, min —
+[260/309] Milano — San Donato Milanese
+  Coord: 45.41156, 9.27697
+    cinema: 1 POI, min 594m
+    palestre: 9 POI, min 640m
+    bar: 53 POI, min 202m
+    ristoranti: 46 POI, min 201m
+    mense: 0 POI, min —
+[261/309] Milano Bicocca — Lecco
+  Coord: 45.51828, 9.21390
+    cinema: 3 POI, min 443m
+    palestre: 36 POI, min 310m
+      [Overpass 504] attendo 10s…
+    bar: 125 POI, min 286m
+    ristoranti: 174 POI, min 284m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[262/309] Milano Bicocca — Sondrio
+  Coord: 45.51828, 9.21390
+    cinema: 3 POI, min 443m
+    palestre: 36 POI, min 310m
+    bar: 125 POI, min 286m
+    ristoranti: 174 POI, min 284m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[263/309] Milano Cattolica — Marsicovetere
+  Coord: 45.46185, 9.17706
+    cinema: 10 POI, min 449m
+    palestre: 48 POI, min 294m
+      [Overpass 429] attendo 15s…
+    bar: 639 POI, min 130m
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 1117 POI, min 132m
+    mense: 0 POI, min —
+[264/309] Milano Cattolica — Torino
+  Coord: 45.53786, 10.22428
+      [Overpass 429] attendo 15s…
+    cinema: 6 POI, min 280m
+      [Overpass 429] attendo 15s…
+    palestre: 17 POI, min 286m
+    bar: 205 POI, min 57m
+      [Overpass 429] attendo 15s…
+    ristoranti: 268 POI, min 77m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[265/309] Milano San Raffaele — Ponte San Pietro
+  Coord: 45.50681, 9.26517
+    cinema: 0 POI, min —
+    palestre: 21 POI, min 240m
+      [Overpass 504] attendo 10s…
+    bar: 59 POI, min 101m
+      [Overpass 504] attendo 10s…
+      [Overpass 504] attendo 20s…
+      [Overpass 504] attendo 30s…
+    ristoranti: 63 POI, min 75m
+    mense: 0 POI, min —
+[266/309] Napoli Vanvitelli — Ariano Irpino
+  Coord: 41.06722, 14.33052
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    palestre: 20 POI, min 264m
+    bar: 44 POI, min 214m
+      [Overpass 429] attendo 15s…
+    ristoranti: 59 POI, min 177m
+    mense: 0 POI, min —
+[267/309] Napoli Vanvitelli — Caivano
+  Coord: 41.06722, 14.33052
+    cinema: 0 POI, min —
+    palestre: 20 POI, min 264m
+    bar: 44 POI, min 214m
+    ristoranti: 59 POI, min 177m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[268/309] Padova — Monselice
+  Coord: 45.40665, 11.87744
+      [Overpass 429] attendo 15s…
+    cinema: 5 POI, min 372m
+    palestre: 17 POI, min 611m
+    bar: 218 POI, min 53m
+    ristoranti: 231 POI, min 64m
+    mense: 0 POI, min —
+[269/309] Padova — Portogruaro
+  Coord: 45.40665, 11.87744
+    cinema: 5 POI, min 372m
+    palestre: 17 POI, min 611m
+      [Overpass 429] attendo 15s…
+    bar: 218 POI, min 53m
+    ristoranti: 231 POI, min 64m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[270/309] Pavia — Vigevano
+  Coord: 45.18693, 9.15688
+    cinema: 1 POI, min 405m
+    palestre: 10 POI, min 908m
+    bar: 64 POI, min 43m
+    ristoranti: 97 POI, min 84m
+    mense: 0 POI, min —
+[271/309] Piemonte Orientale — Biella
+  Coord: 45.56641, 8.05428
+    cinema: 3 POI, min 208m
+    palestre: 12 POI, min 427m
+      [Overpass 429] attendo 15s…
+    bar: 47 POI, min 29m
+    ristoranti: 44 POI, min 203m
+    mense: 0 POI, min —
+[272/309] Piemonte Orientale — Alba
+  Coord: 44.70072, 8.03578
+    cinema: 2 POI, min 289m
+    palestre: 9 POI, min 380m
+    bar: 28 POI, min 68m
+    ristoranti: 49 POI, min 8m
+    mense: 0 POI, min —
+[273/309] Piemonte Orientale — Verbania
+  Coord: 45.93441, 8.55801
+    cinema: 1 POI, min 1060m
+    palestre: 7 POI, min 529m
+      [Overpass 504] attendo 10s…
+    bar: 68 POI, min 474m
+    ristoranti: 82 POI, min 615m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[274/309] Roma La Sapienza — Isernia
+  Coord: 41.60018, 14.23830
+    cinema: 1 POI, min 730m
+    palestre: 1 POI, min 490m
+    bar: 15 POI, min 130m
+    ristoranti: 10 POI, min 205m
+    mense: 0 POI, min —
+[275/309] Roma La Sapienza — Gaeta
+  Coord: 41.21831, 13.56281
+    cinema: 2 POI, min 698m
+      [Overpass 429] attendo 15s…
+    palestre: 1 POI, min 830m
+    bar: 18 POI, min 456m
+      [Overpass 429] attendo 15s…
+    ristoranti: 24 POI, min 504m
+    mense: 0 POI, min —
+[276/309] Roma La Sapienza — Terracina
+  Coord: 41.28712, 13.24920
+      [Overpass 504] attendo 10s…
+    cinema: 2 POI, min 228m
+    palestre: 1 POI, min 1166m
+      [Overpass 429] attendo 15s…
+    bar: 32 POI, min 52m
+    ristoranti: 46 POI, min 53m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[277/309] Roma La Sapienza — Civitavecchia
+  Coord: 42.09375, 11.79225
+    cinema: 1 POI, min 555m
+      [Overpass 429] attendo 15s…
+    palestre: 0 POI, min —
+    bar: 37 POI, min 29m
+      [Overpass 429] attendo 15s…
+    ristoranti: 90 POI, min 12m
+    mense: 0 POI, min —
+[278/309] Roma La Sapienza — Colleferro
+  Coord: 41.72703, 13.00416
+    cinema: 1 POI, min 859m
+    palestre: 9 POI, min 288m
+      [Overpass 429] attendo 15s…
+    bar: 28 POI, min 27m
+    ristoranti: 17 POI, min 36m
+      [Overpass 429] attendo 15s…
+      [Overpass 429] attendo 30s…
+    mense: 0 POI, min —
+[279/309] Roma La Sapienza — Nettuno
+  Coord: 41.45754, 12.66142
+      [Overpass 504] attendo 10s…
+    cinema: 0 POI, min —
+    palestre: 3 POI, min 1297m
+      [Overpass 429] attendo 15s…
+    bar: 17 POI, min 65m
+    ristoranti: 24 POI, min 69m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[280/309] Roma Tor Vergata — Sora
+  Coord: 41.73292, 13.57133
+    cinema: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    palestre: 0 POI, min —
+      [Overpass 429] attendo 15s…
+    bar: 0 POI, min —
+    ristoranti: 0 POI, min —
+    mense: 0 POI, min —
+[281/309] Roma Tor Vergata — Frascati
+  Coord: 41.80825, 12.68037
+    cinema: 1 POI, min 240m
+    palestre: 16 POI, min 146m
+    bar: 53 POI, min 37m
+    ristoranti: 73 POI, min 14m
+    mense: 0 POI, min —
+[282/309] Roma Tor Vergata — Tivoli
+  Coord: 41.96092, 12.79888
+    cinema: 1 POI, min 107m
+      [Overpass 429] attendo 15s…
+    palestre: 3 POI, min 228m
+    bar: 20 POI, min 118m
+      [Overpass 429] attendo 15s…
+    ristoranti: 46 POI, min 79m
+    mense: 0 POI, min —
+[283/309] Rozzano (MI) Humanitas University — Bergamo
+  Coord: 45.69402, 9.67930
+    cinema: 5 POI, min 333m
+    palestre: 17 POI, min 476m
+    bar: 211 POI, min 82m
+    ristoranti: 281 POI, min 92m
+    mense: 0 POI, min —
+[284/309] Rozzano (MI) Humanitas University — Catania
+  Coord: 45.37034, 9.17187
+      [Overpass 429] attendo 15s…
+    cinema: 0 POI, min —
+    palestre: 14 POI, min 600m
+    bar: 12 POI, min 105m
+    ristoranti: 16 POI, min 104m
+    mense: 0 POI, min —
+[285/309] Rozzano (MI) Humanitas University — Castellanza
+  Coord: 45.61037, 8.90176
+    cinema: 0 POI, min —
+    palestre: 15 POI, min 610m
+    bar: 44 POI, min 28m
+    ristoranti: 60 POI, min 106m
+    mense: 0 POI, min —
+[286/309] Salento — Tricase
+  Coord: 40.35864, 18.16552
+    cinema: 2 POI, min 1082m
+    palestre: 11 POI, min 273m
+    bar: 158 POI, min 101m
+    ristoranti: 223 POI, min 102m
+    mense: 0 POI, min —
+[287/309] Torino — Aosta
+  Coord: 45.07338, 7.69944
+    cinema: 10 POI, min 791m
+    palestre: 27 POI, min 170m
+      [Overpass 429] attendo 15s…
+    bar: 343 POI, min 101m
+    ristoranti: 630 POI, min 188m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[288/309] Torino — Ivrea
+  Coord: 45.07338, 7.69944
+    cinema: 10 POI, min 791m
+    palestre: 27 POI, min 170m
+    bar: 343 POI, min 101m
+    ristoranti: 630 POI, min 188m
+    mense: 0 POI, min —
+[289/309] Verona — Bolzano - Bozen
+  Coord: 45.43634, 11.00303
+    cinema: 3 POI, min 887m
+    palestre: 13 POI, min 273m
+    bar: 204 POI, min 115m
+    ristoranti: 332 POI, min 47m
+    mense: 0 POI, min —
+[290/309] Verona — Legnago
+  Coord: 45.43634, 11.00303
+    cinema: 3 POI, min 887m
+    palestre: 13 POI, min 273m
+    bar: 204 POI, min 115m
+      [Overpass 504] attendo 10s…
+    ristoranti: 332 POI, min 47m
+    mense: 0 POI, min —
+[291/309] Firenze — Empoli
+  Coord: 43.77755, 11.25699
+      [Overpass 429] attendo 15s…
+    cinema: 11 POI, min 192m
+    palestre: 16 POI, min 827m
+    bar: 449 POI, min 40m
+    ristoranti: 898 POI, min 38m
+    mense: 0 POI, min —
+[292/309] Roma Foro Italico — Roma
+  Coord: 41.94059, 12.49381
+    cinema: 0 POI, min —
+    palestre: 32 POI, min 422m
+    bar: 25 POI, min 1082m
+    ristoranti: 34 POI, min 74m
+    mense: 0 POI, min —
+[293/309] Udine — Gemona Del Friuli
+  Coord: 46.27929, 13.14010
+    cinema: 1 POI, min 268m
+    palestre: 6 POI, min 435m
+    bar: 12 POI, min 112m
+    ristoranti: 13 POI, min 91m
+    mense: 0 POI, min —
+[294/309] Piemonte Orientale — Asti
+  Coord: 44.90054, 8.20689
+    cinema: 4 POI, min 119m
+    palestre: 16 POI, min 254m
+    bar: 108 POI, min 28m
+    ristoranti: 109 POI, min 40m
+    mense: 0 POI, min —
+[295/309] Pavia — Voghera
+  Coord: 45.18693, 9.15688
+    cinema: 1 POI, min 405m
+    palestre: 10 POI, min 908m
+    bar: 64 POI, min 43m
+    ristoranti: 97 POI, min 84m
+    mense: 0 POI, min —
+[296/309] Milano Politecnico — Mantova
+  Coord: 45.16004, 10.78938
+    cinema: 3 POI, min 283m
+    palestre: 9 POI, min 998m
+    bar: 70 POI, min 247m
+    ristoranti: 81 POI, min 201m
+    mense: 0 POI, min —
+[297/309] Milano Politecnico — Piacenza
+  Coord: 45.04688, 9.70309
+    cinema: 4 POI, min 1019m
+    palestre: 4 POI, min 967m
+    bar: 138 POI, min 90m
+    ristoranti: 99 POI, min 100m
+    mense: 0 POI, min —
+[298/309] Bari Politecnico — Taranto
+  Coord: 41.10891, 16.87858
+    cinema: 5 POI, min 749m
+    palestre: 17 POI, min 458m
+    bar: 178 POI, min 158m
+    ristoranti: 186 POI, min 59m
+    mense: 0 POI, min —
+[299/309] Bergamo — Dalmine
+  Coord: 45.68689, 9.66133
+    cinema: 4 POI, min 1314m
+    palestre: 15 POI, min 659m
+      [Overpass 429] attendo 15s…
+    bar: 186 POI, min 131m
+    ristoranti: 237 POI, min 150m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[300/309] Salerno — Avellino
+  Coord: 40.91413, 14.79554
+    cinema: 1 POI, min 601m
+    palestre: 8 POI, min 972m
+    bar: 14 POI, min 134m
+      [Overpass 429] attendo 15s…
+    ristoranti: 13 POI, min 71m
+    mense: 0 POI, min —
+[301/309] Siena — San Giovanni Valdarno
+  Coord: 40.83889, 14.24283
+    cinema: 13 POI, min 332m
+    palestre: 13 POI, min 655m
+    bar: 436 POI, min 84m
+    ristoranti: 555 POI, min 106m
+      [Overpass 429] attendo 15s…
+    mense: 0 POI, min —
+[302/309] Napoli Parthenope — Caivano
+  Coord: 40.75946, 14.43722
+      [Overpass 504] attendo 10s…
+    cinema: 1 POI, min 817m
+    palestre: 9 POI, min 185m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    bar: 74 POI, min 98m
+    ristoranti: 52 POI, min 105m
+    mense: 0 POI, min —
+[303/309] Molise — Pesche
+  Coord: 41.55380, 14.66486
+    cinema: 0 POI, min —
+      [Overpass 504] attendo 10s…
+    palestre: 10 POI, min 716m
+    bar: 6 POI, min 180m
+      [Overpass 429] attendo 15s…
+      [Overpass 504] attendo 20s…
+    ristoranti: 26 POI, min 605m
+    mense: 0 POI, min —
+[304/309] Milano Politecnico — Cremona
+  Coord: 45.13474, 10.01452
+      [Overpass 429] attendo 15s…
+    cinema: 1 POI, min 816m
+    palestre: 7 POI, min 764m
+    bar: 32 POI, min 284m
+    ristoranti: 67 POI, min 170m
+    mense: 0 POI, min —
+[305/309] Modena e Reggio Emilia — Mantova
+  Coord: 45.15667, 10.79172
+    cinema: 3 POI, min 166m
+    palestre: 9 POI, min 584m
+      [Overpass 429] attendo 15s…
+    bar: 69 POI, min 38m
+    ristoranti: 79 POI, min 82m
+      [Overpass 504] attendo 10s…
+    mense: 0 POI, min —
+[306/309] Modena e Reggio Emilia — Carpi
+  Coord: 44.78357, 10.88545
+    cinema: 3 POI, min 258m
+    palestre: 13 POI, min 1054m
+    bar: 20 POI, min 34m
+    ristoranti: 24 POI, min 188m
+    mense: 0 POI, min —
+[307/309] Padova — Chioggia
+  Coord: 45.40665, 11.87744
+    cinema: 5 POI, min 372m
+    palestre: 17 POI, min 611m
+    bar: 218 POI, min 53m
+    ristoranti: 231 POI, min 64m
+    mense: 0 POI, min —
+[308/309] Camerino — San Benedetto Del Tronto
+  Coord: 43.13963, 13.06722
+    cinema: 0 POI, min —
+    palestre: 2 POI, min 1951m
+    bar: 12 POI, min 384m
+    ristoranti: 17 POI, min 385m
+      [Overpass 504] attendo 10s…
+    mense: 2 POI, min 166m
+[309/309] Sannio — Grottaminarda
+  Coord: 41.06972, 15.05894
+    cinema: 0 POI, min —
+    palestre: 0 POI, min —
+    bar: 5 POI, min 318m
+    ristoranti: 2 POI, min 419m
+    mense: 0 POI, min —
+
+Applico dati al dataset…
+Salvataggio C:\Users\Utente\Desktop\DISTANZA\dataset_universita_POI.xlsx…
+
+=======================================================
+RIEPILOGO
+=======================================================
+  Sedi totali:          309
+  Sedi nel checkpoint:  309
+  Righe dataset aggiornate: 5827 / 5827
+=======================================================
+COMPLETATO.

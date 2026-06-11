@@ -1,0 +1,8 @@
+*.xlsx
+*.xls
+*.csv
+checkpoint_v3.json
+checkpoint*.json
+__pycache__/
+*.pyc
+.env
